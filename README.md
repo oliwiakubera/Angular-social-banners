@@ -6,9 +6,6 @@
 - blog: [https://zacznijprogramowac.net/](https://zacznijprogramowac.net/)
 - kanał YT: [https://www.youtube.com/ZacznijProgramowac](https://www.youtube.com/ZacznijProgramowac)
 
-# Otwórz ten projekt przez StackBlitz:
-...
-
 ## Wymagania projektu
 - Angular CLI & Angular > 9.0.0
 - Node: 12.13.1 lub inna wersja LTS
